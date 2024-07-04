@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hello, I'm Anupam Maurya! 👋
+# Hello, I'm Agrim Gupta! 👋
 
 ![GitHub followers](https://img.shields.io/github/followers/anupammaurya6767?label=Follow&style=social) ![GitHub stars](https://img.shields.io/github/stars/anupammaurya6767?style=social)
 
@@ -24,15 +24,13 @@ Welcome to my GitHub profile! I'm a 20-year-old developer from India passionate 
 ## 🧑‍💻 About Me
 - 🌱 I’m currently learning **Data Structures & Algorithms, Machine Learning & AI**
 - 💬 Ask me about **DSA, Web Development, or AI**
-- 📫 How to reach me: **[anupammaurya6767@gmail.com](mailto:anupammaurya6767@gmail.com)**
+- 📫 How to reach me: **[work.agrimgupta@gmail.com](mailto:work.agrimgupta@gmail.com)**
 - 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: **I'm a fast learner and love solving complex problems!**
+- ⚡ Fun fact: **I'm a fast learner and love solving problems!**
 
 ## 🌟 Hobbies
-- 🎮 Gaming Addict
-- 📺 Watching Anime
-- 📚 Reading Light Novels
-- 🏏 Cricket (Neighbourhood Professional XD)
+- 🎮 Gaming 
+- 🖌  Painting
 
 ## 🎧 Spotify Playing
 [![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_uid&cover_image=true&theme=default)](https://spotify.com)
