@@ -9,7 +9,7 @@
 
 # About Me 💬
 
-### Hello! I'm Agrim Gupta, a 21-year-old Computer Engineer from India
+### Hello! 👋  I'm Agrim Gupta, a 21-year-old Computer Engineer from India
 
 
 ### 📚 Currently Learning:
