@@ -87,7 +87,7 @@ Feel free to reach out or check out my projects. Happy coding! 😄
 ### 💾 Database:
 <div>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white" height="23">
-  <img src="https://img.shields.io/badge/MS%20SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white" height="23">
+  <img src="https://img.shields.io/badge/SQL%20Server-Proficient-blue?logo=microsoft-sql-server&logoColor=white" alt="SQL Server" height="23">
 </div>
 
 ### 📖 Learning:
