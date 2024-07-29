@@ -15,8 +15,9 @@
 ### 📚 Currently Learning:
 
 - ✨ Data Structures & Algorithms
-- 🤖 Machine Learning & Artificial Intelligence
 - 🌐 Web Development
+- 🤖 Machine Learning & Artificial Intelligence
+
 
 
 ### 🎮 Hobbies:
