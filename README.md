@@ -18,6 +18,11 @@
 - 🌐 Web Development
 - 🤖 Machine Learning & Artificial Intelligence
 
+- Object Oriented Programming (OOPs)
+- Database Management Systems (DBMS)
+- Operating Systems (OS)
+- Computer Networks (CN)
+
 
 
 ### 🎮 Hobbies:
